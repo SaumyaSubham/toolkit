@@ -1,0 +1,8 @@
+Flask==2.0.1
+Flask-CORS==3.0.10
+nltk==3.6.2
+beautifulsoup4==4.9.3
+requests==2.25.1
+scikit-learn==0.24.2
+docx2txt==0.8
+PyPDF2==1.26.0

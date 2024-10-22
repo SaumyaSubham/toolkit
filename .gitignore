@@ -1,0 +1,3 @@
+# .gitignore
+frontend/.env.local
+backend/.env
